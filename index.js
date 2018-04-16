@@ -1,5 +1,6 @@
 const binance = require('node-binance-api');
 const binanceConstants = require('./binance.json');
+const CronJob = require('cron').CronJob;
 const MongoClient = require('mongodb').MongoClient;
 
 binance.options({
