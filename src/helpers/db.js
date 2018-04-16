@@ -38,3 +38,8 @@ const getCoin = (symbol) => {
     });
   })
 }
+
+module.exports = {
+  getCoin,
+  saveCoin
+};
