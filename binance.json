@@ -1,0 +1,6 @@
+{
+  "API_KEY": "API KEY GOES HERE",
+  "API_SECRET": "APIS SECRET GOES HERE",
+  "MARKET": "BNB",
+  "SLACK": "https://hooks.slack.com/services/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"
+}
